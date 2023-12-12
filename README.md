@@ -2,12 +2,13 @@
 
 Task notes before starting:
 
-Read the file and convert into an array
+Read the file and convert into an array.
 Function for calculating value. Correspond text values to numeric.. A=1, B=2 etc
 Create seperate array for the values that were created. Potentially?? Could refer to later for more expansion to task?
 Display sorted names with position?
 Print score at end.
 
+After task:
 
 Challenges:
 
